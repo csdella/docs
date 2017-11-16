@@ -18,7 +18,7 @@ Or you can click on the "Edit in Github" link in the upper right corner, and the
 ![RTD io](../Images/PR2.png)
 3.  Either of the options in Step 2 will create a new branch in YOUR repository where your edits will be saved.  Make your edits to the file.
 ![Edit branch](../Images/PR3.png)
-4. You have been working in the "<>Edit file" tab. Select the "Preview changes" tab for a fresh look to make sure everything you changed looks like you meant it to (typpos sic.). If you see a needed improvement, go back to the edit tab to make more improvements.
+4. You have been working in the "<>Edit file" tab. Select the "Preview changes" tab for a fresh look to make sure everything you changed looks like you meant it to (typpos sic.). If you see a big bad boo boo, don't cry; go back to the the drawing board and try, try, again!
 ![preview mode](../Images/PR5.png)
 5. When you have finished your edits, scroll to the bottom of the page.  In the box at the bottom, provide your comments in the text field that reads, "Add an optional extended description...". The default title has the file name. Try to include a sentence explaining the __reason__ for the change. Relating the reason helps reviewers understand what you are attempting to do with the PR.
 ![commit comments](../Images/PR4.png)
